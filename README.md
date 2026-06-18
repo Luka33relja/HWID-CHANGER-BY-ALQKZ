@@ -51,3 +51,4 @@ MIT — Free for educational and personal use.
 Windows 10 22H2 ✅
 Windows 11 23H2 ✅
 Windows 11 24H2 ✅
+ How TO use start the .exe click 1 for windows 10 click 2 for windows 11 select if you only want to change HWID or HWID and ip 
